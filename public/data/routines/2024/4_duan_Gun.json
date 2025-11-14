@@ -1,0 +1,185 @@
+{
+    "routine": "初级棍术",
+    "title": "初级棍术",
+    "year": 2024,
+    "movements": [
+      { "id": 1, "name": "起势", "techniques": [] },
+      {
+        "id": 2,
+        "name": "弓步劈棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "弓步撩棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "虚步上拨棍",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "虚步把拨棍",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      { "id": 6, "name": "插步抡劈棍", "techniques": [] },
+      { "id": 7, "name": "翻身抡劈棍", "techniques": [] },
+      {
+        "id": 8,
+        "name": "马步平抡棍",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "跳步半抡劈棍",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      { "id": 10, "name": "单手抡劈棍", "techniques": [] },
+      {
+        "id": 11,
+        "name": "提膝把劈棍",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "弓步抡劈棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "弓步背棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "弓步挑把棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "转身弓步戳棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "踢腿撩棍",
+        "techniques": [
+          { "name": "提撩棍", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "右弓步拉棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "提膝拦棍",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      { "id": 19, "name": "插步抡把劈棍", "techniques": [] },
+      {
+        "id": 20,
+        "name": "翻身马步抡劈棍",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "上步撩棍",
+        "techniques": [
+          { "name": "双手撩棍", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "上步左撩棍",
+        "techniques": [
+          { "name": "双手撩棍", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "转身仆步摔棍",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "弓步崩棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "马步把劈棍",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      { "id": 26, "name": "歇步半抡劈棍", "techniques": [] },
+      {
+        "id": 27,
+        "name": "左平舞花棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "右平舞花棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      { "id": 29, "name": "插步下点棍", "techniques": [] },
+      {
+        "id": 30,
+        "name": "左弓步下点棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      { "id": 31, "name": "插步下戳棍", "techniques": [] },
+      {
+        "id": 32,
+        "name": "提膝拦棍",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      { "id": 33, "name": "收势", "techniques": [] }
+    ]
+  }
+  

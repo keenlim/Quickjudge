@@ -1,0 +1,189 @@
+{
+    "routine": "初级刀术",
+    "title": "初级刀术",
+    "year": 2024,
+    "movements": [
+      { "id": 1, "name": "起势", "techniques": [] },
+      {
+        "id": 2,
+        "name": "弓步缠刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "缠头", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "虚步藏刀",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "弓步前刺",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      { "id": 5, "name": "并步上挑", "techniques": [] },
+      {
+        "id": 6,
+        "name": "弓步抡劈",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "弓步抡劈",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "弓步撩刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "弓歩藏刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "提膝缠头",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 },
+          { "name": "缠头", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "弓步平斩",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "仆步带刀",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "歇步下砍",
+        "techniques": [
+          { "name": "歇步", "code": "54", "points": 0.1 }
+        ]
+      },
+      { "id": 14, "name": "左劈刀", "techniques": [] },
+      { "id": 15, "name": "右劈刀", "techniques": [] },
+      {
+        "id": 16,
+        "name": "歇步按刀",
+        "techniques": [
+          { "name": "歇步", "code": "54", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "马步平劈",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "弓步撩刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      { "id": 19, "name": "插步反擦", "techniques": [] },
+      { "id": 20, "name": "转身挂劈", "techniques": [] },
+      {
+        "id": 21,
+        "name": "仆步下砍",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "架刀前刺",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "左提膝斜劈",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      { "id": 24, "name": "右斜劈", "techniques": [] },
+      {
+        "id": 25,
+        "name": "虚步藏刀",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      { "id": 26, "name": "旋转扫刀", "techniques": [] },
+      {
+        "id": 27,
+        "name": "翻身劈刀",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "缠头箭踢",
+        "techniques": [
+          { "name": "缠头", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "仆步按刀",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "缠头蹬腿",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "缠头", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "虚步藏刀",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "引步缠头",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      { "id": 33, "name": "并步抱刀", "techniques": [] },
+      { "id": 34, "name": "收势", "techniques": [] }
+    ]
+  }
+  

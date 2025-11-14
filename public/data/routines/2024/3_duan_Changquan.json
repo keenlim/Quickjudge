@@ -1,0 +1,254 @@
+{
+    "routine": "初级长拳",
+    "title": "初级长拳",
+    "year": 2024,
+    "movements": [
+      { "id": 1, "name": "起势", "techniques": [] },
+      { "id": 2, "name": "并步站立", "techniques": [] },
+      {
+        "id": 3,
+        "name": "虚步亮掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      { "id": 4, "name": "并步对拳", "techniques": [] },
+      {
+        "id": 5,
+        "name": "弓步冲拳",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "弹腿冲拳",
+        "techniques": [
+          { "name": "弹腿", "code": "23", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "马步冲拳",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "弓步冲拳",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "弹腿冲拳",
+        "techniques": [
+          { "name": "弹腿", "code": "23", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "大跃步前穿",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "弓步击掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "马步架掌",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "虚步栽拳",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "提膝穿掌",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "仆步穿掌",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "虚步挑掌",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "马步击掌",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      { "id": 18, "name": "叉步双摆掌", "techniques": [] },
+      {
+        "id": 19,
+        "name": "弓步击掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "转身踢腿马步盘肘",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "歇步抡砸拳",
+        "techniques": [
+          { "name": "歇步", "code": "54", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "仆步亮掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "弓步劈拳",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "换跳步弓步冲拳",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "马步冲拳",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "弓步下冲拳",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "叉步亮掌侧踹腿",
+        "techniques": [
+          { "name": "踹腿", "code": "23", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "虚步挑拳",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "弓步顶肘",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "转身左拍脚",
+        "techniques": [
+          { "name": "拍脚", "code": "25", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "右拍脚",
+        "techniques": [
+          { "name": "拍脚", "code": "25", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "腾空飞脚",
+        "techniques": [
+          { "name": "腾空飞脚", "code": "30", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "歇步下冲拳",
+        "techniques": [
+          { "name": "歇步", "code": "54", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "仆步抡劈拳",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "提膝挑掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "提膝劈掌",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "弓步冲拳",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "虚步亮掌",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      { "id": 39, "name": "并步对拳", "techniques": [] },
+      { "id": 40, "name": "收势", "techniques": [] }
+    ]
+  }
+  

@@ -1,0 +1,313 @@
+{
+    "routine": "第一套国际竞赛棍术套路",
+    "title": "第一套国际竞赛棍术套路 (2005版)",
+    "year": 2005,
+    "movements": [
+      {
+        "id": 1,
+        "name": "起势",
+        "techniques": []
+      },
+      {
+        "id": 2,
+        "name": "撩掌推棍",
+        "techniques": [
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "丁字步抱棍",
+        "techniques": []
+      },
+      {
+        "id": 4,
+        "name": "平抡棍仆步抱棍",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 },
+          { "name": "平抡棍", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "歇步绞棍",
+        "techniques": [
+          { "name": "歇步", "code": "54", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "抡扫腾空举棍",
+        "techniques": []
+      },
+      {
+        "id": 7,
+        "name": "仆步摔棍",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "抡棍弓步背棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "转身云拨棍",
+        "techniques": []
+      },
+      {
+        "id": 10,
+        "name": "转身抡棍",
+        "techniques": []
+      },
+      {
+        "id": 11,
+        "name": "抡棍旋子",
+        "techniques": [
+          { "name": "旋子", "code": "33", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "插步绞把",
+        "techniques": []
+      },
+      {
+        "id": 13,
+        "name": "弓步戳把",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "插步绞戳棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "跳点棍仆步摔棍",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "横裆步崩棍",
+        "techniques": []
+      },
+      {
+        "id": 17,
+        "name": "撩棍蹬腿",
+        "techniques": [
+          { "name": "双手提撩花棍", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "弓步戳把",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "涮腰扫棍",
+        "techniques": []
+      },
+      {
+        "id": 20,
+        "name": "提膝背棍",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "原地舞花",
+        "techniques": [
+          { "name": "立舞花棍", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "击步旋风脚",
+        "techniques": [
+          { "name": "旋风脚", "code": "30", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "转身扫棍",
+        "techniques": []
+      },
+      {
+        "id": 24,
+        "name": "坐盘抱棍",
+        "techniques": [
+          { "name": "坐盘", "code": "58", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "转身抡棍",
+        "techniques": []
+      },
+      {
+        "id": 26,
+        "name": "上步撩棍",
+        "techniques": []
+      },
+      {
+        "id": 27,
+        "name": "半马步劈棍",
+        "techniques": []
+      },
+      {
+        "id": 28,
+        "name": "弓步云拨棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "扣腿戳把",
+        "techniques": [
+          { "name": "扣腿", "code": "14", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "插步绞棍",
+        "techniques": []
+      },
+      {
+        "id": 31,
+        "name": "插步戳棍",
+        "techniques": []
+      },
+      {
+        "id": 32,
+        "name": "舞花跳仆步摔棍",
+        "techniques": [
+          { "name": "立舞花棍", "code": "65", "points": 0.1 },
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "弓步扫棍",
+        "techniques": []
+      },
+      {
+        "id": 34,
+        "name": "转身跳点棍",
+        "techniques": []
+      },
+      {
+        "id": 35,
+        "name": "仆步摔棍",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "转身盖把",
+        "techniques": []
+      },
+      {
+        "id": 37,
+        "name": "抡棍弓步背棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "转身点棍",
+        "techniques": []
+      },
+      {
+        "id": 39,
+        "name": "插步背棍",
+        "techniques": [
+          { "name": "双手提撩花棍", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "插步云拨棍",
+        "techniques": []
+      },
+      {
+        "id": 41,
+        "name": "转身抡扫棍",
+        "techniques": []
+      },
+      {
+        "id": 42,
+        "name": "跳仆步摔棍",
+        "techniques": [
+          { "name": "立舞花棍", "code": "65", "points": 0.1 },
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "弓步崩棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "插步绞棍",
+        "techniques": []
+      },
+      {
+        "id": 45,
+        "name": "转身抡棍",
+        "techniques": []
+      },
+      {
+        "id": 46,
+        "name": "虚步背棍",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "转身云棍",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "弓步推掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "并步抱棍",
+        "techniques": []
+      },
+      {
+        "id": 50,
+        "name": "收式",
+        "techniques": []
+      }
+    ]
+  }

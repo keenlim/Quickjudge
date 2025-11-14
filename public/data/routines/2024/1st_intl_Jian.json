@@ -1,0 +1,327 @@
+{
+    "routine": "第一套国际竞赛剑术套路",
+    "title": "第一套国际竞赛剑术套路 (2024版)",
+    "year": 2024,
+    "movements": [
+      {
+        "id": 1,
+        "name": "起势",
+        "techniques": []
+      },
+      {
+        "id": 2,
+        "name": "并步亮指",
+        "techniques": []
+      },
+      {
+        "id": 3,
+        "name": "转身云剑",
+        "techniques": []
+      },
+      {
+        "id": 4,
+        "name": "盘腿平衡截剑",
+        "techniques": [
+          { "name": "扣腿", "code": "14", "points": 0.1 },
+          { "name": "快速完成", "code": "77", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "上步撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "提膝抱剑",
+        "techniques": []
+      },
+      {
+        "id": 7,
+        "name": "行步带剑",
+        "techniques": []
+      },
+      {
+        "id": 8,
+        "name": "上步撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "扣步点剑",
+        "techniques": []
+      },
+      {
+        "id": 10,
+        "name": "插步腕花",
+        "techniques": []
+      },
+      {
+        "id": 11,
+        "name": "弓步刺剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 },
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "并步点剑",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "退步抹剑",
+        "techniques": []
+      },
+      {
+        "id": 14,
+        "name": "退步撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "跳步提膝撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "上步刺剑",
+        "techniques": []
+      },
+      {
+        "id": 17,
+        "name": "弓步刺剑",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "并步撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "虚步刺剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 },
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "并步截剑",
+        "techniques": []
+      },
+      {
+        "id": 21,
+        "name": "上步挂剑",
+        "techniques": [
+          { "name": "挂剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "翻身抡挂剑",
+        "techniques": [
+          { "name": "挂剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "退步挂剑",
+        "techniques": [
+          { "name": "挂剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "插步撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "并步劈剑",
+        "techniques": []
+      },
+      {
+        "id": 26,
+        "name": "行步带剑",
+        "techniques": []
+      },
+      {
+        "id": 27,
+        "name": "歇步抱剑",
+        "techniques": []
+      },
+      {
+        "id": 28,
+        "name": "转身云剑",
+        "techniques": []
+      },
+      {
+        "id": 29,
+        "name": "仆步穿剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 },
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "弓步反劈剑",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "退步绞剑",
+        "techniques": [
+          { "name": "高虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "坐盘崩剑",
+        "techniques": []
+      },
+      {
+        "id": 33,
+        "name": "卧鱼平衡撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 },
+          { "name": "快速完成", "code": "77", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "插步撩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "上步刺剑",
+        "techniques": []
+      },
+      {
+        "id": 36,
+        "name": "换跳步刺剑",
+        "techniques": []
+      },
+      {
+        "id": 37,
+        "name": "翻腰抹剑",
+        "techniques": []
+      },
+      {
+        "id": 38,
+        "name": "转身扫剑",
+        "techniques": []
+      },
+      {
+        "id": 39,
+        "name": "退步腕花",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "翻腰抡劈剑",
+        "techniques": []
+      },
+      {
+        "id": 41,
+        "name": "弓步崩剑",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "击步点剑",
+        "techniques": []
+      },
+      {
+        "id": 43,
+        "name": "翻身挂剑",
+        "techniques": [
+          { "name": "挂剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "丁步崩剑",
+        "techniques": [
+          { "name": "撩剑", "code": "60", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "弓步点剑",
+        "techniques": []
+      },
+      {
+        "id": 46,
+        "name": "翻腰抡劈剑",
+        "techniques": []
+      },
+      {
+        "id": 47,
+        "name": "扣腿刺剑",
+        "techniques": []
+      },
+      {
+        "id": 48,
+        "name": "仆步摆剑",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "叉步劈剑",
+        "techniques": []
+      },
+      {
+        "id": 50,
+        "name": "转身云剑",
+        "techniques": []
+      },
+      {
+        "id": 51,
+        "name": "虚步持剑",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "前点步背剑上指",
+        "techniques": []
+      },
+      {
+        "id": 53,
+        "name": "收式",
+        "techniques": []
+      }
+    ]
+  }

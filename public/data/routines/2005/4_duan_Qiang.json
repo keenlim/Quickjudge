@@ -1,0 +1,233 @@
+{
+    "routine": "初级枪术",
+    "title": "初级枪术 (2005版)",
+    "year": 2005,
+    "movements": [
+      {
+        "id": 1,
+        "name": "起势",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 },
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "插步拦、拿中平扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "跳步拦、拿中平扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "绕上步拦、拿中平扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "插步栏、拿中平扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "转身左弓步中平枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "上步弓步推枪",
+        "techniques": [
+          { "name": "弓步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "仆步低平枪",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "提膝抱枪",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "提膝架枪",
+        "techniques": [
+          { "name": "提膝", "code": "26", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "弓步拿、扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "马步盖把枪",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "舞花拿、扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 },
+          { "name": "立舞花枪", "code": "65", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "上步劈、扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "挑把转身拿、扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "横档步劈枪",
+        "techniques": []
+      },
+      {
+        "id": 17,
+        "name": "虚步下扎枪",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "歇步拿枪",
+        "techniques": [
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "歇步", "code": "54", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "马步单平枪",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "插步拦、拿中平扎枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "拦拿枪", "code": "63", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "弓步拉抢",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "转身中平枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "转身拉枪",
+        "techniques": []
+      },
+      {
+        "id": 24,
+        "name": "插步拨枪",
+        "techniques": []
+      },
+      {
+        "id": 25,
+        "name": "并步下扎枪",
+        "techniques": []
+      },
+      {
+        "id": 26,
+        "name": "跳步中平枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "拗步盖把枪",
+        "techniques": []
+      },
+      {
+        "id": 28,
+        "name": "仆歩劈枪，弓步中平枪",
+        "techniques": [
+          { "name": "仆步", "code": "53", "points": 0.1 },
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "转身弓步中平枪",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "扎枪", "code": "64", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "收势",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 }
+        ]
+      }
+    ]
+  }

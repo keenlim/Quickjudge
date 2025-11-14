@@ -1,0 +1,355 @@
+{
+    "routine": "第一套国际竞赛刀术套路",
+    "title": "第一套国际竞赛刀术套路 (2005版)",
+    "year": 2005,
+    "movements": [
+      {
+        "id": 1,
+        "name": "预备势",
+        "techniques": []
+      },
+      {
+        "id": 2,
+        "name": "抱刀右冲拳",
+        "techniques": [
+          { "name": "拳", "code": "01", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "抱刀分手亮掌",
+        "techniques": [
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "单拍脚",
+        "techniques": [
+          { "name": "拍脚", "code": "25", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "翻腰拍地",
+        "techniques": []
+      },
+      {
+        "id": 6,
+        "name": "剪腕花左右扎刀",
+        "techniques": []
+      },
+      {
+        "id": 7,
+        "name": "转身缠头刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "撩刀回身平扫",
+        "techniques": []
+      },
+      {
+        "id": 9,
+        "name": "剪腕花分手点刀",
+        "techniques": []
+      },
+      {
+        "id": 10,
+        "name": "缠头旋风脚",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 },
+          { "name": "旋风脚", "code": "30", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "马步藏刀",
+        "techniques": [
+          { "name": "马步", "code": "51", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "并步斩刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "缠头刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "剪腕花上扎刀",
+        "techniques": []
+      },
+      {
+        "id": 15,
+        "name": "弓步崩刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "左挂刀",
+        "techniques": []
+      },
+      {
+        "id": 17,
+        "name": "上步撩刀",
+        "techniques": []
+      },
+      {
+        "id": 18,
+        "name": "剪腕花分手扎刀",
+        "techniques": []
+      },
+      {
+        "id": 19,
+        "name": "回身上撩刀",
+        "techniques": []
+      },
+      {
+        "id": 20,
+        "name": "抽身带刀",
+        "techniques": []
+      },
+      {
+        "id": 21,
+        "name": "错步扎刀",
+        "techniques": []
+      },
+      {
+        "id": 22,
+        "name": "后推刀",
+        "techniques": []
+      },
+      {
+        "id": 23,
+        "name": "纵步下截刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "腾空左右扎刀",
+        "techniques": []
+      },
+      {
+        "id": 25,
+        "name": "插步下截刀",
+        "techniques": []
+      },
+      {
+        "id": 26,
+        "name": "转身云刀",
+        "techniques": []
+      },
+      {
+        "id": 27,
+        "name": "弓步分手扎刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "缠头刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "前点步错刀",
+        "techniques": []
+      },
+      {
+        "id": 30,
+        "name": "左右抡劈刀",
+        "techniques": []
+      },
+      {
+        "id": 31,
+        "name": "翻身抡劈刀",
+        "techniques": []
+      },
+      {
+        "id": 32,
+        "name": "回身上扎刀",
+        "techniques": []
+      },
+      {
+        "id": 33,
+        "name": "旋转格刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "弓步藏刀推掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "插步分手扎刀",
+        "techniques": []
+      },
+      {
+        "id": 36,
+        "name": "回身点刀",
+        "techniques": []
+      },
+      {
+        "id": 37,
+        "name": "扫刀旋子",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 },
+          { "name": "旋子", "code": "33", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "云刀仰身推刀",
+        "techniques": []
+      },
+      {
+        "id": 39,
+        "name": "转身缠头刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "裹脑平抹刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "换跳步扎刀",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "平分刀",
+        "techniques": []
+      },
+      {
+        "id": 43,
+        "name": "云托按刀",
+        "techniques": []
+      },
+      {
+        "id": 44,
+        "name": "插步绞刀",
+        "techniques": []
+      },
+      {
+        "id": 45,
+        "name": "跪步推刀",
+        "techniques": []
+      },
+      {
+        "id": 46,
+        "name": "纵步下截刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "上步扎刀",
+        "techniques": []
+      },
+      {
+        "id": 48,
+        "name": "撩腕花跳崩刀",
+        "techniques": []
+      },
+      {
+        "id": 49,
+        "name": "分手点刀",
+        "techniques": []
+      },
+      {
+        "id": 50,
+        "name": "剪腕花并步扎刀",
+        "techniques": []
+      },
+      {
+        "id": 51,
+        "name": "崩刀前点",
+        "techniques": []
+      },
+      {
+        "id": 52,
+        "name": "转身缠头刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "仆步下截刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 },
+          { "name": "仆步", "code": "53", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "旋转缠脖刀",
+        "techniques": [
+          { "name": "缠头裹脑", "code": "62", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "接刀弓步推掌",
+        "techniques": [
+          { "name": "弓步", "code": "50", "points": 0.1 },
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "左虚步切掌",
+        "techniques": [
+          { "name": "虚步", "code": "52", "points": 0.1 },
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "并步按掌",
+        "techniques": []
+      },
+      {
+        "id": 58,
+        "name": "并步收式",
+        "techniques": [
+          { "name": "拳", "code": "01", "points": 0.1 },
+          { "name": "掌", "code": "02", "points": 0.1 }
+        ]
+      }
+    ]
+  }

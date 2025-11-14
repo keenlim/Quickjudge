@@ -1,0 +1,341 @@
+{
+  "title": "第一套国际竞赛枪术套路 (2024版)",
+  "year": 2024,
+  "movements": [
+    {
+      "id": 1,
+      "name": "起式",
+      "techniques": []
+    },
+    {
+      "id": 2,
+      "name": "并步下扎枪",
+      "techniques": [
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "插步亮掌",
+      "techniques": [
+        { "name": "掌", "code": "02", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "转身弓步扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "弓步拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "后点步扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "跨步劈枪",
+      "techniques": []
+    },
+    {
+      "id": 8,
+      "name": "转身跃起劈枪",
+      "techniques": []
+    },
+    {
+      "id": 9,
+      "name": "跨步托枪",
+      "techniques": []
+    },
+    {
+      "id": 10,
+      "name": "上步斜劈枪",
+      "techniques": []
+    },
+    {
+      "id": 11,
+      "name": "插步下拨枪",
+      "techniques": []
+    },
+    {
+      "id": 12,
+      "name": "并步半蹲下扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "转身劈枪",
+      "techniques": []
+    },
+    {
+      "id": 14,
+      "name": "转身拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "弓步拦拿扎枪（重复两次）",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "横裆步架枪",
+      "techniques": []
+    },
+    {
+      "id": 17,
+      "name": "转身劈枪",
+      "techniques": []
+    },
+    {
+      "id": 18,
+      "name": "高虚步拉枪",
+      "techniques": [
+        { "name": "高虚步", "code": "52", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "后点步扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "上步劈枪",
+      "techniques": []
+    },
+    {
+      "id": 21,
+      "name": "横裆步架枪",
+      "techniques": []
+    },
+    {
+      "id": 22,
+      "name": "转身扣腿点枪",
+      "techniques": []
+    },
+    {
+      "id": 23,
+      "name": "并步崩枪",
+      "techniques": []
+    },
+    {
+      "id": 24,
+      "name": "弧行步缠枪（弧形步走五步，缠枪转四周）",
+      "techniques": []
+    },
+    {
+      "id": 25,
+      "name": "插步拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "盖步拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "弓步拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "反身下扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "弓步侧推掌",
+      "techniques": [
+        { "name": "掌", "code": "02", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "虚步崩枪",
+      "techniques": [
+        { "name": "虚步", "code": "52", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "左右舞花枪（左右舞花枪做三周）",
+      "techniques": [
+        { "name": "立舞花枪", "code": "65", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "舞花过背枪",
+      "techniques": []
+    },
+    {
+      "id": 33,
+      "name": "云枪拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "反手穿梭枪",
+      "techniques": [
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "回身绕喉穿枪",
+      "techniques": []
+    },
+    {
+      "id": 36,
+      "name": "跟步劈枪",
+      "techniques": []
+    },
+    {
+      "id": 37,
+      "name": "回身劈枪",
+      "techniques": []
+    },
+    {
+      "id": 38,
+      "name": "单手抛接枪",
+      "techniques": [
+        { "name": "器械抛接", "code": "66", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "腾空翻身仆步摔把",
+      "techniques": [
+        { "name": "仆步", "code": "53", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "抛接枪",
+      "techniques": [
+        { "name": "器械抛接", "code": "66", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "转身坐盘抱枪",
+      "techniques": [
+        { "name": "坐盘", "code": "58", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "转身拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "弓步拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "丁步崩枪",
+      "techniques": []
+    },
+    {
+      "id": 45,
+      "name": "挑枪盖步戳把",
+      "techniques": []
+    },
+    {
+      "id": 46,
+      "name": "翻身过背舞花枪",
+      "techniques": []
+    },
+    {
+      "id": 47,
+      "name": "转身提膝下扎枪",
+      "techniques": [
+        { "name": "提膝", "code": "26", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "云枪拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "弓步拦拿扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 },
+        { "name": "弓步", "code": "50", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "横裆步架枪",
+      "techniques": []
+    },
+    {
+      "id": 51,
+      "name": "横裆步上扎枪",
+      "techniques": [
+        { "name": "拦拿扎", "code": "63", "points": 0.1 }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "并步立枪推掌",
+      "techniques": []
+    },
+    {
+      "id": 53,
+      "name": "收式",
+      "techniques": []
+    }
+  ]
+}
